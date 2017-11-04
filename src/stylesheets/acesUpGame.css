@@ -1,0 +1,31 @@
+.root { 
+    
+    -fx-accent: #ffa31a;
+}
+
+.menu-bar {
+	 -fx-background-color: black;
+	 -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+}
+
+.menu .label {
+	-fx-text-fill: white;
+	-fx-font-size: 20pt;
+}
+
+.menu-item .label {
+    -fx-text-fill: black;
+}
+
+#H_A {
+	-fx-background-color: rgba(255,255,255,0.5);
+	-fx-border-style: solid;
+	-fx-border-color: #000000;
+	-fx-border-width: 4;
+	-fx-border-insets: 5, 15;
+
+}
+
+#SP {
+	-fx-background-color: rgba(0,0,0,0.8);
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckMenuItem?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:id="scene" prefHeight="900.0" prefWidth="1464.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.FreecellGameController">
+  <children>
+    <MenuBar VBox.vgrow="NEVER" fx:id="_gameMenu">
+      <menus>
+        <Menu mnemonicParsing="false" text="_New Game">
+          <items>
+            <MenuItem mnemonicParsing="false" text="Freecell Game" onAction="#freecellMenuClick"/>
+            <MenuItem mnemonicParsing="false" text="Bakers Dozen Game" onAction="#bakersDozenMenuClick"/>
+             <MenuItem mnemonicParsing="false" onAction="#acesUpMenuClick" text="Ace's Up Game" />
+            <SeparatorMenuItem mnemonicParsing="false" />
+            <MenuItem mnemonicParsing="false" text="Exit" onAction="#exitMenuClick"/>
+          </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="_Skins">
+          <items>
+                  <MenuItem mnemonicParsing="false" text="Default" onAction="#defaultSkin"/>
+                  <MenuItem mnemonicParsing="false" text="Koi Pond" onAction="#koiSkin"/>
+                  <MenuItem mnemonicParsing="false" text="Jungle" onAction="#jungleSkin"/>
+                  <MenuItem mnemonicParsing="false" text="Desert" onAction="#desertSkin"/>
+          </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="_Help">
+          <items>
+                  <MenuItem mnemonicParsing="false" text="About" onAction="#aboutMenuClick"/>
+                  <MenuItem mnemonicParsing="false" text="Game Info" onAction="#gameInfoMenuClick"/>
+          </items>
+        </Menu>
+      </menus>
+    </MenuBar>
+  </children>
+</VBox>

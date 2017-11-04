@@ -1,0 +1,50 @@
+.root {
+    -fx-background-color: #008000;
+    -fx-accent: #ffa31a;
+}
+
+.menu-bar {
+	 -fx-background-color: black;
+	 -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+}
+
+.menu .label {
+	-fx-text-fill: white;
+	-fx-font-size: 20pt;
+}
+
+.menu-item .label{
+    -fx-text-fill: black;
+}
+
+#H_A {
+	-fx-background-color: #004d00;
+	-fx-border-style: solid;
+	-fx-border-color: #00cc00;
+	-fx-border-width: 4;
+	-fx-border-insets: 5, 15;
+}
+
+#H_B {
+	-fx-background-color: #004d00;
+	-fx-border-style: solid;
+	-fx-border-color: #00cc00;
+	-fx-border-width: 4;
+	-fx-border-insets: 5, 15;
+}
+
+#H_C {
+	-fx-background-color: #004d00;
+	-fx-border-style: solid;
+	-fx-border-color: #00cc00;
+	-fx-border-width: 4;
+	-fx-border-insets: 5, 15;
+}
+
+#H_D {
+	-fx-background-color: #004d00;
+	-fx-border-style: solid;
+	-fx-border-color: #00cc00;
+	-fx-border-width: 4;
+	-fx-border-insets: 5, 15;
+}

@@ -1,0 +1,28 @@
+.root {
+    
+    -fx-accent: #ffa31a;
+}
+
+.menu-bar {
+	 -fx-background-color: black;
+	 -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+}
+
+.menu .label {
+	-fx-text-fill: white;
+	-fx-font-size: 20pt;
+	
+}
+
+.menu-item .label{
+    -fx-text-fill: black;
+}
+
+#button {
+	-fx-background-image: url("/resources/card_images/head.png"); 
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: contain;
+	-fx-background-color: BLACK;
+	-fx-border-style: solid;
+	-fx-border-color: BLACK;
+}

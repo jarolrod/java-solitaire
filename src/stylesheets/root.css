@@ -1,0 +1,33 @@
+
+.root {
+   -fx-background-color: #001a66;
+   -fx-accent: #ffa31a;
+   
+}
+
+.menu-bar {
+	 -fx-background-color: black;
+	 -fx-text-fill: white;
+	 -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+}
+
+.menu .label {
+	-fx-text-fill: white;
+	-fx-font-size: 20pt;
+	
+}
+
+.menu-item .label{
+    -fx-text-fill: black;
+}
+
+.button {
+	-fx-border-color: black;
+	-fx-border-width: 4px;
+}
+
+.button:hover {
+	-fx-border-color: yellow;
+	-fx-border-width: 10;
+	-fx-border-insets: -10, -10;
+}
