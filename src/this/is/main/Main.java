@@ -1,4 +1,4 @@
-package edu.buffalo.cse116;
+package this.is.main;
 
 import GUI.GUI;
 import javafx.application.Application;
