@@ -1,3 +1,4 @@
+![Banner](https://i.imgur.com/zfGKA4V.jpg)
 # Java Solitaire
 
 A collection of card games made in Java:
@@ -27,13 +28,6 @@ A collection of card games made in Java:
 
 #### Desert Skin
 ![Desert Skin](https://i.imgur.com/i2ut4jT.png) 
-
-
-
-
-## Built With
-
-* [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm#JFXST784) - GUI tools
 
 
 ## License
