@@ -11,20 +11,16 @@ A collection of card games made in Java:
 ![Menu](https://i.imgur.com/SR3R7cB.png)
 
 #### Freecell Game
-![Freecell](https://i.imgur.com/oQQkTYW.png)
+![Freecell](https://i.imgur.com/LycI24t.gifv)
 
 #### Bakers Dozen
-![Bakers Dozen](https://i.imgur.com/ibw4LUE.png) 
+![Bakers Dozen](https://i.imgur.com/0zxfNg1.gifv) 
 
 #### Ace's Up
-![Ace's Up](https://i.imgur.com/O5n1qWP.png) 
-
-#### Drag and Drop Functionality
-![Drag and Drop](https://i.imgur.com/XRrcBnd.png) 
-
+![Ace's Up](https://i.imgur.com/Zu7L19r.gifv) 
 
 #### Jungle Skin
-![Jungle Skin](https://i.imgur.com/P3bNKy8.png) 
+![Jungle Skin](https://i.imgur.com/UZ9Qv96.gifv) 
 
 #### Desert Skin
 ![Desert Skin](https://i.imgur.com/i2ut4jT.png) 
