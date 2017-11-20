@@ -1,5 +1,5 @@
 ![Banner](https://i.imgur.com/zfGKA4V.jpg)
-# Java Solitaire
+#
 
 A collection of card games made in Java:
 * [Freecell](http://www.solitairecity.com/Help/FreeCell.shtml)
